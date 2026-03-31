@@ -5,6 +5,11 @@
 - **Databases**: SQL (MySQL)
 - **Data Visualization**: Power BI,  Excel
 ## Project Highlights
+[Media Campaign Analysis](https://github.com/timiczn/Social-Media-Campaign-Performance-Analysis-)
+
+I worked as a Data Analyst for a consumer brand to analyse a full year of their social media performance data. The goal was to move beyond surface-level metrics and uncover the specific patterns. By platform, content format, posting time, and campaign. Patterns that were actually driving results. The analysis fed into a fully interactive dashboard built in excel and a formal executive summary report delivered to senior leadership, containing 8 prioritised strategic recommendations.
+<img width="7605" height="3971" alt="Social media campaign 1" src="https://github.com/user-attachments/assets/04f7d460-50ac-4af7-a9ef-c339bb8dd4da" />
+
 [Sales-Performance-Analysis](https://github.com/timiols/Sales-Performance-Analysis)
 
 Built an interactive dashboard that reveals critical insights, identifies underlying trends, evaluates customer purchasing patterns, and delivers data-driven recommendations to support strategic decision-making and improve business performance.
@@ -25,6 +30,6 @@ using SQL, I analyzed a dataset on  water access and sanitation in African commu
 ##  Connect With Me
 [Linkedin](https://www.linkedin.com/in/olutimilehin-owoseni/)
 
-[X](https://x.com/timiols)
+[X](https://x.com/timiczn)
 
-[Email](timiowoseni@gmail.com)
+Email:timiowoseni@gmail.com
