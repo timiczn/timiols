@@ -2,7 +2,7 @@
 ## Data Analyst | Storyteller
 ### I’m passionate about uncovering the stories behind the numbers, using data to drive meaningful, informed decisions. With a strong analytical toolkit and an inquisitive mindset, I turn raw data into clear, actionable insights that empower impactful business outcomes.
 ## Skills & Tools
-- **Databases**: SQL (MySQL)
+- **Databases**: SQL (MySQL, MSSQL)
 - **Data Visualization**: Power BI,  Excel
 ## Project Highlights
 
