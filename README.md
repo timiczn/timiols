@@ -15,7 +15,17 @@ Nexus Care is the medical and performance unit responsible for managing athlete 
 [Media Campaign Analysis](https://github.com/timiczn/Social-Media-Campaign-Performance-Analysis-)
 
 I worked as a Data Analyst for a consumer brand to analyse a full year of their social media performance data. The goal was to move beyond surface-level metrics and uncover the specific patterns. By platform, content format, posting time, and campaign. Patterns that were actually driving results. The analysis fed into a fully interactive dashboard built in excel and a formal executive summary report delivered to senior leadership, containing 8 prioritised strategic recommendations.
+
 <img width="7605" height="3971" alt="Social media campaign 1" src="https://github.com/user-attachments/assets/04f7d460-50ac-4af7-a9ef-c339bb8dd4da" />
+
+
+[Supply Chain Analytics — Star Schema Data Model](https://github.com/timiczn/Supply-Chain-Analytics-Star-Schema-Data-Model/blob/main/README.md#supply-chain-analytics--star-schema-data-model)
+
+A data modelling project that transforms a raw, wide supply chain dataset into a structured star schema using Power Query inside Power BI. The goal was to build a model clean enough to answer real business questions reliably.
+The raw dataset had 53 columns and 180,519 rows : customer info, product details, order transactions, delivery performance, and financial metrics all crammed into a single flat file. That kind of structure is fine for storage, not for analysis.
+The task was to break it apart into a proper dimensional model and validate that it actually works.
+
+<img width="886" height="500" alt="Screenshot 2026-05-06 072932" src="https://github.com/user-attachments/assets/baa47ccb-9e07-471d-b8a5-220e203fc939" />
 
 
 [Sales-Performance-Analysis](https://github.com/timiols/Sales-Performance-Analysis)
