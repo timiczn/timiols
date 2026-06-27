@@ -4,6 +4,7 @@
 ## Skills & Tools
 - **Databases**: SQL (MySQL, MSSQL)
 - **Data Visualization**: Power BI,  Excel
+- **Programming** : Python (pandas, matplotib, Numpy)
 ## Project Highlights
 
 [Nexus-Care-Athlete-Injury-Intelligence](https://github.com/timiczn/Nexus-Care-Athlete-Injury-Intelligence/blob/main/README.md)
